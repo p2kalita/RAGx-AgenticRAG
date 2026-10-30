@@ -1,0 +1,11 @@
+ipykernel
+xlrd
+pandas
+xgboost
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+shap
+langchain-huggingface 
+sentence-transformers

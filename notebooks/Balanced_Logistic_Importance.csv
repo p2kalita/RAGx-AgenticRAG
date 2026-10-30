@@ -1,0 +1,24 @@
+Feature,Importance
+Question Intent_Understand capability / terminology,2.585118130013069
+Business Capability_Cloud migration and modernization,1.3561235823949183
+Business Capability_IT operations and observability,1.2824887832136824
+Question Intent_Request presales guidance,1.0690967412498231
+Business Capability_Cloud foundation and workload architecture,0.9804215905687839
+Question Intent_Determine timing / applicability,0.9507613408553226
+Business Capability_Business continuity and resilience,0.9099926737237264
+Question Intent_Evaluate options / fit,0.8720211552803988
+Question Type_Governance / Security,0.693887038280136
+Question Type_Best Practice,0.5749467561675147
+Question Complexity_Low,0.5305511383815738
+Question Complexity_Medium,0.5117368870160223
+Business Capability_Hybrid connectivity and network foundation,0.4906150036381423
+Question Intent_Determine implementation approach,0.451100359714745
+Question Type_Implementation,0.43264934352677875
+Business Capability_Enterprise data and analytics,0.4116469284810805
+Question Type_Commercial / Pricing,0.37995477989863075
+Question Type_Migration,0.3466793255518463
+Question Intent_Estimate commercial impact,0.2940608081671018
+Question Type_Informational,0.20664044771807447
+Business Capability_Digital platform delivery,0.1920389755409949
+Business Capability_Financial governance / FinOps,0.128674187493997
+"Business Capability_Risk, compliance and identity control",0.08056562221088391
